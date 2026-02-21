@@ -1,0 +1,24 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# macOS files
+.DS_Store
+
+# wandb local run files
+wandb/
+
+# Streamlit cache
+.streamlit/
