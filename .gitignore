@@ -1,24 +1,18 @@
-# Python environment
+# Ignore Python virtual environment
 venv/
+
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
-.env.*
 
-# Logs and databases
-*.log
-*.sqlite3
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# Jupyter checkpoints
-.ipynb_checkpoints
-
-# macOS files
+# Mac system files
 .DS_Store
 
-# wandb local run files
-wandb/
-
-# Streamlit cache
-.streamlit/
+# Logs and temp files
+*.log
+*.tmp
