@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 Usage
 
-1.	Place your dataset in the data/ folder. If using creditcard.csv, it may be zipped as creditcard.zip due to GitHub size limits.
-2.	Run preprocessing, training, or evaluation scripts from the src/ folder:
+1.Place your dataset in the data/ folder. If using creditcard.csv, it may be zipped as creditcard.zip due to GitHub size limits.
+2.Run preprocessing, training, or evaluation scripts from the src/ folder:
 
 python src/data_preprocessing.py
 python src/train.py
