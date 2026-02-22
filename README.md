@@ -31,14 +31,17 @@ git clone https://github.com/anushka-srivastavas/Fraud_detection.git
 cd Fraud_detection
 
 2.Create and activate a virtual environment:
+
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 # venv\Scripts\activate   # Windows
 
 3.Install dependencies:
+
 pip install -r requirements.txt
 
 Usage
+
 1.	Place your dataset in the data/ folder. If using creditcard.csv, it may be zipped as creditcard.zip due to GitHub size limits.
 2.	Run preprocessing, training, or evaluation scripts from the src/ folder:
 
@@ -50,9 +53,7 @@ Launch Deployment App
 python app/main.py
 
 Dataset
-
 The project uses the Credit Card Fraud Detection dataset. For GitHub upload limits, the CSV is provided as a zip (creditcard.zip) in the data/ folder.
 
 License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
