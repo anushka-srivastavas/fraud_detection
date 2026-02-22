@@ -12,13 +12,13 @@ A Python-based credit card fraud detection project that uses machine learning to
 ## Project Structure
 
 fraud_detection/
-├── data/                   # Dataset (creditcard.csv or creditcard.zip)
-├── notebooks/              # EDA and experiments
-├── src/                    # Python modules for preprocessing, training, and evaluation
-├── models/                 # Trained models and scalers
-├── app/                    # Deployment scripts or web app code
-├── requirements.txt        # Python dependencies
-└── LICENSE                 # MIT License
+├── data/           # Dataset (creditcard.csv or creditcard.zip)
+├── notebooks/      # EDA and experiments
+├── src/            # Python modules for preprocessing, training, and evaluation
+├── models/         # Trained models and scalers
+├── app/            # Deployment scripts or web app code
+├── requirements.txt # Python dependencies
+└── LICENSE         # MIT License
 
 ## Installation
 
@@ -54,3 +54,4 @@ The project uses the Credit Card Fraud Detection dataset. For GitHub upload limi
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
