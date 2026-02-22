@@ -24,18 +24,18 @@ fraud_detection/
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/anushka-srivastavas/Fraud_detection.git
 cd Fraud_detection
 
-2.	Create and activate a virtual environment:
+2.Create and activate a virtual environment:
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 # venv\Scripts\activate   # Windows
 
-3. Install dependencies:
+3.Install dependencies:
 pip install -r requirements.txt
 
 Usage
