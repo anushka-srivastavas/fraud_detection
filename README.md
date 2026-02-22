@@ -56,6 +56,3 @@ The project uses the Credit Card Fraud Detection dataset. For GitHub upload limi
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
